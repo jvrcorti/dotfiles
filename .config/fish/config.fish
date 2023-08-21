@@ -137,6 +137,8 @@ alias update='sudo pacman -Syyu'
 alias rb='sudo reboot'
 alias apagar='sudo poweroff'
 
+alias ntty='nvim ~/.config/alacritty/alacritty.yml'
+alias nqtile='~/.config/qtile/config.py'
 alias nfish='nvim ~/.config/fish/config.fish'
 
 # Get fastest mirrors
