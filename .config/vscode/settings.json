@@ -1,0 +1,32 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.statusBar.visible": true,
+    "editor.fontFamily": "JetBrains Mono, CaskaydiaCove Nerd Font, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font, Jetbrains Nerd Font",
+    "editor.fontLigatures": true,
+    "diffEditor.renderSideBySide": false,
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "editor.linkedEditing": true,
+    "editor.letterSpacing": 0.4,
+    "editor.smoothScrolling": true,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.formatOnSave": true,
+    "editor.glyphMargin": false,
+    "indenticator.width": 0.1,
+    "indenticator.color.dark": "rgba(255,255,255,0.1)",
+    "liveServer.settings.CustomBrowser": "firefox",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "window.zoomLevel": -1,
+    "editor.lineHeight": 0
+}
