@@ -57,6 +57,11 @@ alias zhreload="source ~/.zshrc"
 alias ll='ls -al --color=always'
 alias ls='ls -a --color=always'
 alias nz='nvim $HOME/.zshrc'
+#Alias git
+alias gtus="git status" 
+alias gadd="git add"
+alias gmit="git commit -m"
+alias gush="git push origin"
 #Programas en ejecucion
 neofetch
 
