@@ -42,8 +42,9 @@ local util = require("lspconfig/util")
 lspconfig.pyright.setup({
     capabilities = capabilities,
     on_attach = on_attach,
-    filetypes= {"python"}
+    filetypes= {"python"},
 })
+
 lspconfig.html.setup({
     capabilities = capabilities,
     on_attach = on_attach

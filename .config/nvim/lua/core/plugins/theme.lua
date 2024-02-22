@@ -7,10 +7,10 @@ vim.cmd[[ set background=dark ]]
 
 
 -- local status, _ = pcall(vim.cmd, "colorscheme night-owl")
-local status, _ = pcall(vim.cmd, "colorscheme night-wolf")
+-- local status, _ = pcall(vim.cmd, "colorscheme night-wolf")
 -- local status, _ = pcall(vim.cmd, "colorscheme kanagawa")
 -- local status, _ = pcall(vim.cmd, "colorscheme nightfox")
--- local status, _ = pcall(vim.cmd, "colorscheme catppuccin")
+local status, _ = pcall(vim.cmd, "colorscheme catppuccin")
 
 if not status then
     print("Color Scheme not found!")
